@@ -32,6 +32,8 @@ project/
         inference.py     # Prediction logic
         __init__.py     # Package initialization
 ```
+## Swagger Interface : Test end point
+![Swagger UI](swagger.png)
 
 ## Prerequisites
 - Python 3.9+
